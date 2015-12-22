@@ -1,0 +1,6 @@
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorrContent\obj\x86\Debug\TeamGamorrContent.contentprojResolveAssemblyReference.cache
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorrContent\obj\x86\Debug\TeamGamorrContent.contentprojResolveAssemblyReference.cache
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorrContent\obj\x86\Debug\TeamGamorrContent.contentprojResolveAssemblyReference.cache
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorrContent\obj\x86\Debug\TeamGamorrContent.contentprojResolveAssemblyReference.cache
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorrContent\obj\x86\Debug\TeamGamorrContent.contentprojResolveAssemblyReference.cache
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorrContent\obj\x86\Debug\TeamGamorrContent.contentprojResolveAssemblyReference.cache

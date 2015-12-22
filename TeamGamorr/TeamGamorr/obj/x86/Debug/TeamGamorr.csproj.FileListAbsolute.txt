@@ -1,0 +1,290 @@
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\TeamGamorr.exe
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\TeamGamorr.pdb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\obj\x86\Debug\TeamGamorr.csprojResolveAssemblyReference.cache
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\obj\x86\Debug\TeamGamorr.exe
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\obj\x86\Debug\TeamGamorr.pdb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\maleDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\maleLeft.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\maleRight.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\maleUp.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\femaleDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\femaleLeft.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\femaleRight.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\femaleUp.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\deathDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\deathLeft.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\deathRight.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\deathUp.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\luggageDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\luggageLeft.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\luggageRight.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\luggageUp.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\dragonDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\dragonLeft.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\dragonRight.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\dragonUp.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Bars\bloodbar.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Bars\expiriencebar.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Bars\shieldbar.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\maleDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\maleLeft.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\maleRight.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\maleUp.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\femaleDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\femaleLeft.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\femaleRight.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\femaleUp.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\deathDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\deathLeft.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\deathRight.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\deathUp.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\luggageDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\luggageLeft.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\luggageRight.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\luggageUp.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\dragonDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\dragonLeft.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\dragonRight.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\dragonUp.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Bars\bloodbar.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Bars\expiriencebar.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Bars\shieldbar.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\TeamGamorr.exe
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\TeamGamorr.pdb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\obj\x86\Debug\TeamGamorr.csprojResolveAssemblyReference.cache
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\obj\x86\Debug\TeamGamorr.exe
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\obj\x86\Debug\TeamGamorr.pdb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Items\Shield.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Items\Health.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Items\Axe.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Tiles\floor.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Tiles\wall.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 12.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Tiles\wallDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\obj\x86\Debug\TeamGamorr.csprojResolveAssemblyReference.cache
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\obj\x86\Debug\TeamGamorr.exe
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\obj\x86\Debug\TeamGamorr.pdb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\maleDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\maleLeft.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\maleRight.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\maleUp.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\femaleDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\femaleLeft.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\femaleRight.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\femaleUp.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\deathDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\deathLeft.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\deathRight.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\deathUp.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\luggageDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\luggageLeft.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\luggageRight.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\luggageUp.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\dragonDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\dragonLeft.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\dragonRight.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\dragonUp.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Bars\bloodbar.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Bars\expiriencebar.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Bars\shieldbar.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Items\Shield.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Items\Health.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Items\Axe.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Tiles\floor.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Tiles\wall.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Tiles\wallDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\TeamGamorr.exe
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\TeamGamorr.pdb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 17.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\maleDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\maleLeft.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\maleRight.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\maleUp.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\femaleDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\femaleLeft.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\femaleRight.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\femaleUp.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\deathDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\deathLeft.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\deathRight.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\deathUp.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\luggageDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\luggageLeft.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\luggageRight.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\luggageUp.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\dragonDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\dragonLeft.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\dragonRight.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\dragonUp.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Bars\bloodbar.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Bars\expiriencebar.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Bars\shieldbar.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Items\Shield.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Items\Health.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Items\Axe.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Tiles\floor.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Tiles\wall.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Tiles\wallDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\TeamGamorr.exe
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\TeamGamorr.pdb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\obj\x86\Debug\TeamGamorr.csprojResolveAssemblyReference.cache
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\obj\x86\Debug\TeamGamorr.exe
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\obj\x86\Debug\TeamGamorr.pdb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Buttons\EnterButtonBlueGlass.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Buttons\femaleButton.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Buttons\maleButton.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Buttons\OptionsMenu.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Buttons\secondBG.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\ElfWarsOST.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 20.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\ElfWarsOST.wma
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\maleDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\maleLeft.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\maleRight.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\maleUp.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\femaleDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\femaleLeft.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\femaleRight.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\femaleUp.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\deathDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\deathLeft.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\deathRight.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\deathUp.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\luggageDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\luggageLeft.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\luggageRight.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\luggageUp.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\dragonDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\dragonLeft.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\dragonRight.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\dragonUp.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Bars\bloodbar.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Bars\expiriencebar.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Bars\shieldbar.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Items\Shield.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Items\Health.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Items\Axe.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Buttons\EnterButtonBlueGlass.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Buttons\femaleButton.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Buttons\maleButton.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Buttons\OptionsMenu.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Buttons\secondBG.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Tiles\floor.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Tiles\wall.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Tiles\wallDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\ElfWarsOST.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\ElfWarsOST.wma
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\TeamGamorr.exe
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\TeamGamorr.pdb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\obj\x86\Debug\TeamGamorr.csprojResolveAssemblyReference.cache
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\obj\x86\Debug\TeamGamorr.exe
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\obj\x86\Debug\TeamGamorr.pdb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GameOver.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 21.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\youDead.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\maleDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\maleLeft.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\maleRight.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\maleUp.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\femaleDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\femaleLeft.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\femaleRight.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\femaleUp.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\deathDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\deathLeft.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\deathRight.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\deathUp.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\luggageDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\luggageLeft.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\luggageRight.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\luggageUp.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\dragonDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\dragonLeft.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\dragonRight.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\dragonUp.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Bars\bloodbar.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Bars\expiriencebar.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Bars\shieldbar.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Items\Shield.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Items\Health.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Items\Axe.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Buttons\EnterButtonBlueGlass.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Buttons\femaleButton.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Buttons\maleButton.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Buttons\OptionsMenu.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Buttons\secondBG.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Tiles\floor.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Tiles\wall.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Tiles\wallDown.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GameOver.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\youDead.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\ElfWarsOST.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\SpriteFont.xnb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\ElfWarsOST.wma
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\TeamGamorr.exe
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\TeamGamorr.pdb
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\obj\x86\Debug\TeamGamorr.csprojResolveAssemblyReference.cache
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\obj\x86\Debug\TeamGamorr.exe
+C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\obj\x86\Debug\TeamGamorr.pdb

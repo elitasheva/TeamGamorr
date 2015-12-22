@@ -1,0 +1,390 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>GoodCharacter\maleDown.png</Source>
+      <Name>GoodCharacter\maleDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\maleDown.xnb</Output>
+      <Time>2015-12-06T17:35:36.4723417+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GoodCharacter\maleLeft.png</Source>
+      <Name>GoodCharacter\maleLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\maleLeft.xnb</Output>
+      <Time>2015-12-06T17:35:36.4723417+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GoodCharacter\maleRight.png</Source>
+      <Name>GoodCharacter\maleRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\maleRight.xnb</Output>
+      <Time>2015-12-06T17:35:36.4723417+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GoodCharacter\maleUp.png</Source>
+      <Name>GoodCharacter\maleUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\maleUp.xnb</Output>
+      <Time>2015-12-06T17:35:36.4879418+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GoodCharacter\femaleDown.png</Source>
+      <Name>GoodCharacter\femaleDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\femaleDown.xnb</Output>
+      <Time>2015-12-06T17:16:59.4146471+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GoodCharacter\femaleLeft.png</Source>
+      <Name>GoodCharacter\femaleLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\femaleLeft.xnb</Output>
+      <Time>2015-12-06T17:16:59.4458472+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GoodCharacter\femaleRight.png</Source>
+      <Name>GoodCharacter\femaleRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\femaleRight.xnb</Output>
+      <Time>2015-12-06T17:16:59.4614472+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GoodCharacter\femaleUp.png</Source>
+      <Name>GoodCharacter\femaleUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GoodCharacter\femaleUp.xnb</Output>
+      <Time>2015-12-06T17:16:59.4770472+02:00</Time>
+    </Item>
+    <Item>
+      <Source>EvilCharacter\deathDown.png</Source>
+      <Name>EvilCharacter\deathDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\deathDown.xnb</Output>
+      <Time>2015-12-06T19:21:11.3630753+02:00</Time>
+    </Item>
+    <Item>
+      <Source>EvilCharacter\deathLeft.png</Source>
+      <Name>EvilCharacter\deathLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\deathLeft.xnb</Output>
+      <Time>2015-12-06T19:21:11.3786754+02:00</Time>
+    </Item>
+    <Item>
+      <Source>EvilCharacter\deathRight.png</Source>
+      <Name>EvilCharacter\deathRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\deathRight.xnb</Output>
+      <Time>2015-12-06T19:21:11.3942754+02:00</Time>
+    </Item>
+    <Item>
+      <Source>EvilCharacter\deathUp.png</Source>
+      <Name>EvilCharacter\deathUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\deathUp.xnb</Output>
+      <Time>2015-12-06T19:21:11.3942754+02:00</Time>
+    </Item>
+    <Item>
+      <Source>EvilCharacter\luggageDown.png</Source>
+      <Name>EvilCharacter\luggageDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\luggageDown.xnb</Output>
+      <Time>2015-12-08T14:48:24.2187384+02:00</Time>
+    </Item>
+    <Item>
+      <Source>EvilCharacter\luggageLeft.png</Source>
+      <Name>EvilCharacter\luggageLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\luggageLeft.xnb</Output>
+      <Time>2015-12-08T14:48:24.2687384+02:00</Time>
+    </Item>
+    <Item>
+      <Source>EvilCharacter\luggageRight.png</Source>
+      <Name>EvilCharacter\luggageRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\luggageRight.xnb</Output>
+      <Time>2015-12-08T14:48:24.2787385+02:00</Time>
+    </Item>
+    <Item>
+      <Source>EvilCharacter\luggageUp.png</Source>
+      <Name>EvilCharacter\luggageUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\luggageUp.xnb</Output>
+      <Time>2015-12-08T14:48:24.2887385+02:00</Time>
+    </Item>
+    <Item>
+      <Source>EvilCharacter\dragonDown.png</Source>
+      <Name>EvilCharacter\dragonDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\dragonDown.xnb</Output>
+      <Time>2015-12-08T15:00:53.1718697+02:00</Time>
+    </Item>
+    <Item>
+      <Source>EvilCharacter\dragonLeft.png</Source>
+      <Name>EvilCharacter\dragonLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\dragonLeft.xnb</Output>
+      <Time>2015-12-08T15:00:53.1718697+02:00</Time>
+    </Item>
+    <Item>
+      <Source>EvilCharacter\dragonRight.png</Source>
+      <Name>EvilCharacter\dragonRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\dragonRight.xnb</Output>
+      <Time>2015-12-08T15:00:53.1818697+02:00</Time>
+    </Item>
+    <Item>
+      <Source>EvilCharacter\dragonUp.png</Source>
+      <Name>EvilCharacter\dragonUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\EvilCharacter\dragonUp.xnb</Output>
+      <Time>2015-12-08T15:00:53.1818697+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Bars\bloodbar.png</Source>
+      <Name>Bars\bloodbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Bars\bloodbar.xnb</Output>
+      <Time>2015-12-11T11:22:41.5574312+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Bars\expiriencebar.png</Source>
+      <Name>Bars\expiriencebar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Bars\expiriencebar.xnb</Output>
+      <Time>2015-12-11T11:22:41.5674312+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Bars\shieldbar.png</Source>
+      <Name>Bars\shieldbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Bars\shieldbar.xnb</Output>
+      <Time>2015-12-11T11:22:41.5674312+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Shield.png</Source>
+      <Name>Items\Shield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Items\Shield.xnb</Output>
+      <Time>2015-12-12T18:45:52.9370345+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Health.png</Source>
+      <Name>Items\Health</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Items\Health.xnb</Output>
+      <Time>2015-12-12T18:55:13.4404947+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Axe.png</Source>
+      <Name>Items\Axe</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Items\Axe.xnb</Output>
+      <Time>2015-12-12T21:14:17.1990595+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\EnterButtonBlueGlass.png</Source>
+      <Name>Buttons\EnterButtonBlueGlass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Buttons\EnterButtonBlueGlass.xnb</Output>
+      <Time>2015-12-20T17:47:44.2645935+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\femaleButton.png</Source>
+      <Name>Buttons\femaleButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Buttons\femaleButton.xnb</Output>
+      <Time>2015-12-20T17:47:44.2745941+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\maleButton.png</Source>
+      <Name>Buttons\maleButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Buttons\maleButton.xnb</Output>
+      <Time>2015-12-20T17:47:44.2845946+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\OptionsMenu.jpg</Source>
+      <Name>Buttons\OptionsMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Buttons\OptionsMenu.xnb</Output>
+      <Time>2015-12-20T17:47:44.291595+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\secondBG.jpg</Source>
+      <Name>Buttons\secondBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Buttons\secondBG.xnb</Output>
+      <Time>2015-12-20T17:47:44.3405967+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\floor.jpg</Source>
+      <Name>Tiles\floor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Tiles\floor.xnb</Output>
+      <Time>2015-12-17T16:48:00.9417562+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\wall.jpg</Source>
+      <Name>Tiles\wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Tiles\wall.xnb</Output>
+      <Time>2015-12-17T16:48:00.9417562+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\wallDown.jpg</Source>
+      <Name>Tiles\wallDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\Tiles\wallDown.xnb</Output>
+      <Time>2015-12-17T16:48:00.9517563+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GameOver.png</Source>
+      <Name>GameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\GameOver.xnb</Output>
+      <Time>2015-12-21T12:48:17.8589033+02:00</Time>
+    </Item>
+    <Item>
+      <Source>youDead.jpg</Source>
+      <Name>youDead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\youDead.xnb</Output>
+      <Time>2015-12-21T18:18:06.7501023+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ElfWarsOST.mp3</Source>
+      <Name>ElfWarsOST</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\ElfWarsOST.xnb</Output>
+      <Extra>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\ElfWarsOST.wma</Extra>
+      <Time>2015-12-20T17:48:00.2056544+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont.spritefont</Source>
+      <Name>SpriteFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\SpriteFont.xnb</Output>
+      <Time>2015-12-21T18:34:09.3851619+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{27C7463D-8BBB-40AB-9D06-153D5E31BBA3}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorrContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\etasheva\Documents\Visual Studio 2015\Projects\Course-SoftUni-OOP\Games\TeamGamorr - 22.12.2015\TeamGamorr\TeamGamorr\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-12-01T15:28:07.5179883+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
